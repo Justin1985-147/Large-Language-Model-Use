@@ -30,3 +30,19 @@ Example of Content Moderation: Moderation API.
 Important Parameters of the OpenAI API.
 ### [Example-2-12-Let ChatGPT help you write Prompt.txt](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-2-12-Let%20ChatGPT%20help%20you%20write%20Prompt.txt)
 Let ChatGPT help you write Prompt.
+
+## Function Calling
+### [Example-3-1-functioncalling simple math.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-1-functioncalling%20simple%20math.py)
+Example of Function Calling in Simple Math.
+### [Example-3-2-functioncalling multi functions.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-2-functioncalling%20multi%20functions.py)
+Example of Multiple Function Calling.
+### [Example-3-3-functioncalling JSON output.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-3-functioncalling%20JSON%20output.py)
+An example of obtaining JSON structure with Function Calling.
+### [Example-3-4-functioncalling SQL.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-4-functioncalling%20SQL.py)
+An example of querying a database using Function Calling.
+### [Example-3-5-functioncalling SQL for multitables.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-5-functioncalling%20SQL%20for%20multitables.py)
+An example of implementing multi-table queries using Function Calling.
+### [Example-3-6-functioncalling stream mode.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-6-functioncalling%20stream%20mode.py)
+Stream Mode Example.
+### [Example-3-7-functioncalling SQL robot.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-7-functioncalling%20SQL%20robot.py)
+An example of a mobile phone package customer service robot based on Function Calling.
