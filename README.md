@@ -50,3 +50,25 @@ An example of a mobile phone package customer service robot based on Function Ca
 ## RAG
 ### [Example-4-1-pdf load and split.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-1-pdf%20load%20and%20split.py)
 RAG preparation: An example of document loading and splitting.
+### [Example-4-2-RAG ES search.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-2-RAG%20ES%20search.py)
+RAG: An example of a retrieval-based question answering model based on ES.
+### [Example-4-3-embedding distance-diffsize.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-3-embedding%20distance-diffsize.py)
+An example of calculating the similarity between vectors.
+### [Example-4-4-RAG embedding search openai.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-4-RAG%20embedding%20search%20openai.py)
+RAG example based on vector retrieval. Here we use openai's embedding and dialogue interface.
+### [Example-4-5-RAG embedding search qianfan.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-5-RAG%20embedding%20search%20qianfan.py)
+RAG example based on vector search. Here we use Wenxin Qianfan's embedding and dialogue interface.
+### [Example-4-6-RAG embedding search 360.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-6-RAG%20embedding%20search%20360.py)
+RAG example based on vector search. Here we use the embedding and dialogue interface of 360 Zhi Nao.
+### [Example-4-7-RAG embedding search on disk.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-7-RAG%20embedding%20search%20on%20disk.py)
+RAG example based on local chroma vector library (non-memory mode).
+### [Example-4-8-RAG embedding search overlap and rerank.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-8-RAG%20embedding%20search%20overlap%20and%20rerank.py)
+An example of RAG that cuts text in a certain granularity and partially overlaps to make the context more complete.
+### [Example-4-9-RAG Hybrid Search.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-9-RAG%20Hybrid%20Search.py)
+RAG Hybrid Search Example.
+### [Example-4-10-embedding model local deployment.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-10-embedding%20model%20local%T20deployment.py)
+Example of local deployment of RAG vector model.
+### [Example-4-11-RAG pdf table.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-11-RAG%20pdf%20table.py)
+Example of processing tables in a PDF document using RAG.
+### [Example-4-12-RAG generate multi-query.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-12-RAG%20generate%20multi-query.py)
+An example of RAG (Retrieval-Augmented Generation) improving retrieval efficiency by generating multiple queries.
