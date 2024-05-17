@@ -46,3 +46,7 @@ An example of implementing multi-table queries using Function Calling.
 Stream Mode Example.
 ### [Example-3-7-functioncalling SQL robot.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-7-functioncalling%20SQL%20robot.py)
 An example of a mobile phone package customer service robot based on Function Calling.
+
+## RAG
+### [Example-4-1-pdf load and split.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-1-pdf%20load%20and%20split.py)
+RAG preparation: An example of document loading and splitting.
