@@ -21,6 +21,7 @@ def get_chat_completion(session, user_prompt, model="gpt-3.5-turbo"):
         # The Temperature parameter is crucial; use 0 for task execution, 0.7-0.9 for text generation, and it is not recommended to exceed 1 unless necessary
         seed=None,              # Random seed. Specifying a specific value ensures identical results when temperature is 0
         stream=False,           # Data streaming mode; receive one character at a time
+        response_format={"type": "text"},  # the format of output, json_object or text
         top_p=1,                # When randomly sampling, consider only the top percentage of tokens. Not recommended to be used with temperature
         n=1,                    # Return n results per request
         max_tokens=100,         # Maximum number of tokens per result (truncated if exceeded)
