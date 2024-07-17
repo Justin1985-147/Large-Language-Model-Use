@@ -2,6 +2,7 @@
 #——————————————————————————————————————————————————————————————————
 If you don't have ChatGPT Plus and can't use GPTs, use this magic spell to let ChatGPT help you write a prompt. Just paste it into the ChatGPT chat window, and you'll already be activating the legendary agent...
 Some useful websites for sharing prompts:
+https://github.com/linexjlin/GPTs
 https://promptbase.com/
 https://github.com/f/awesome-chatgpt-prompts
 https://smith.langchain.com/hub
