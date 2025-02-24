@@ -72,3 +72,9 @@ Example of local deployment of RAG vector model.
 Example of processing tables in a PDF document using RAG.
 ### [Example-4-12-RAG generate multi-query.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-12-RAG%20generate%20multi-query.py)
 An example of RAG (Retrieval-Augmented Generation) improving retrieval efficiency by generating multiple queries.
+
+## Other Examples
+### [Example-O-1-UsePyTorch1.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-O-1-UsePyTorch1.py)
+This is an example that includes some simple tensor operations and demonstrates the use of a GPU to accelerate training.
+### [Example-O-2-UsePyTorch2.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-O-2-UsePyTorch2.py)
+This is an example of a PyTorch project that is accelerated by a GPU.
