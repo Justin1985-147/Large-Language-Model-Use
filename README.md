@@ -4,6 +4,8 @@ A set of programming examples on how to use large language models for developmen
 ## Simple Start
 ### [Example-1-1-simple api.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-1-simple%20api.py)
 This is a simple test example of calling the GPT API.
+### [Example-1-2-simple api of deepseek.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-2-simple%20api%20of%20deepseek.py)
+This is a simple test example of calling the deepseek API from Siliconflow.
 
 ## Prompt Engineering
 ### [Example-2-1-prompt NLU.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-2-1-prompt%20NLU.py)
