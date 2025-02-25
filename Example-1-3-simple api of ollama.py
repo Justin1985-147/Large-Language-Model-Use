@@ -1,6 +1,9 @@
 # how to use api to get response from ollama
 
-# 导入OpenAI类，用于与API交互
+# you need to install ollama first and run it locally
+# you also need to download the model you want to use by ollama
+
+# Import OpenAI class for API interaction
 from openai import OpenAI
 
 modelname = "deepseek-r1:14b" # or modelname = "deepseek-r1:32b"
@@ -17,8 +20,8 @@ messages = [
     },
 ]
 
-# 初始化OpenAI客户端，设置基础URL为本地Ollama服务器地址，并提供API密钥。
-# 本地部署的Ollama的api_key随便写就可以。
+# Initialize OpenAI client, set base URL to local Ollama server address and provide API key
+# For local Ollama deployment, the api_key can be any value
 client = OpenAI(base_url="http://127.0.0.1:11434/v1", api_key="Liu")
  
  # Call deepseek-chat
